@@ -1,0 +1,4 @@
+Package: check-invalid-filenames
+Version: 1.0
+Maintainer: hbobenicio <hbobenicio@gmail.com>
+Description: A simple program that checks recursively if a directory has filenames with characters outside ascii/printable ranges.
